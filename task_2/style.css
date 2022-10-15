@@ -1,0 +1,34 @@
+*{
+    background-color: #9BDE9E;
+  }
+  
+  h1{
+    color: white;
+  }
+  
+  .btn {
+        padding: 0;
+        background-color: transparent;
+        border-style: none;
+        outline: none;
+        -webkit-tap-highlight-color: transparent;
+        box-shadow: none;
+        cursor: pointer;
+        display: flex;
+        margin: 5px 10px;
+        padding: 10px 15px;
+        border-radius: 80px;
+        font-size: 12px;
+        line-height: 15px;
+        text-transform: uppercase;
+        color: white;
+        background: #9BDE9E;
+        transition: 0.3s;
+        box-shadow: 5px 5px 10px #89C48B,
+          -5px -5px 10px #ADF7B0;
+  
+     }
+  
+     .btn_text {
+        margin-right: 10px;
+     }
